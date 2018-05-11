@@ -69,6 +69,9 @@ playground.tensorflow.org에서 제공하는 신경명 시각화 시뮬레이션
 **[Terry님의 쉽게 풀어쓴 딥러닝의 거의 모든 것](http://slownews.kr/41461)** `한국어`   
 쓱 훓어보는 딥러닝.  
   
+**[입문자를 위한 한양대 딥러닝 특강 질답 목록](https://www.facebook.com/dgtgrade/posts/1799785053413686)** `한국어`   
+딥러닝 스타트업 보이저 엑스 남세동 대표의 강연 질답을 보아둔 페이스북 포스팅. 처음 딥러닝을 시작하려는 사람들이 가질만한 궁금증이 잘 정리되어 있다.  
+  
 # 용어집
 **[<밑바닥부터 시작하는 딥러닝>에 사용된 딥러닝 용어집](https://github.com/likejazz/likejazz.github.io/wiki/%EB%94%A5%EB%9F%AC%EB%8B%9D)** `한국어`  
 박상길  
