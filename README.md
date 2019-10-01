@@ -6,12 +6,24 @@
 # 강의
 **[모두를 위한 딥러닝 강좌 시즌1](https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)** `한국어`  
 [김성훈](https://www.youtube.com/user/hunkims) 교수님의 이 강의는 유튜브로 볼 수 있는 딥러닝 강의다. 한국어로 된 강의가 많지 않은 상황에 가뭄에 단비같은 존재가 아닐 수 없다. 글을 쓰는 현재 약 50편의 강의가 등록되어 있다. 다른 강의들도 [이 페이지](http://hunkim.github.io/ml/)에서 확인할 수 있다.  
+
+**[모두를 위한 딥러닝 강좌 시즌2](https://www.youtube.com/watch?v=7eldOrjQVi0&list=PLQ28Nx3M4Jrguyuwg4xe9d9t2XE639e5C&fbclid=IwAR2RaTvRw_6OIDTNYXsNT8HEUbS3KcgT9rjhLTYQ6GJtLGXU1uK8mDCm8uc)** `한국어`  
   
 **[휴먼러닝 유튜브 강의](https://www.youtube.com/playlist?list=PLefQdA1SdkhtRUuN_D3PdxaR2XTGQw8Ph)** `한국어`  
 남세동 대표님의 휴먼러닝 강의, 김성훈 교수님의 강의보도 조금 더 낮은 눈높이에서 딥러닝을 설명한다.  
     
 **[기계학습은 즐겁다](https://medium.com/@jongdae.lim/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-machine-learning-%EC%9D%80-%EC%A6%90%EA%B2%81%EB%8B%A4-part-1-9a0297198ad8) (1~8편)** `한국어`   
-구글 엔지니어 [임종대](https://medium.com/@jongdae.lim)님이 번역하신 기계학습 가이드. 마치 처음부터 한국어로 쓰인 것처럼 술술 쉽게 읽힌다. 중간 중간 곁들여진 이미지는 이해에 큰 도움을 준다.
+구글 엔지니어 [임종대](https://medium.com/@jongdae.lim)님이 번역하신 기계학습 가이드. 마치 처음부터 한국어로 쓰인 것처럼 술술 쉽게 읽힌다. 중간 중간 곁들여진 이미지는 이해에 큰 도움을 준다.  
+
+**[머신러닝을 위한 Python 워밍업(최성철)](https://www.edwith.org/aipython?fbclid=IwAR2aBTrxfkSoJOC3q2PBctGSOSGdrB2XYsURlsNq9L17ZU6Okmhm4cwyyVk)** `한국어`  
+
+**[인공지능을 위한 선형대수(주재걸)](https://www.edwith.org/linearalgebra4ai?fbclid=IwAR3m0f8RvYCL88yRQvVTaeU8jpOvawo5jRy21vmbcxn1SYH4CiOgi-iQk5E)** `한국어`  
+
+**[데이터 구조 및 분석(문일철)](https://kaist.edwith.org/datastructure-2019s?fbclid=IwAR1peGXxxGpJAdht67HRScc3akdZgb-hTQDfyocIiPkoaKjjOfaHW9KELMg)** `한국어`  
+
+**[인공지능 및 기계학습 개론1(문일철)](https://kaist.edwith.org/machinelearning1_17?fbclid=IwAR1sV80gAkAEkygzU3__LJ1LqpMez-PQrGmDRzwf_MJxTEG9sAqRztXAH2Q)** `한국어`  
+
+**[영상이해를 위한 최적화 기법(김창익)](https://kaist.edwith.org/optimization2017?fbclid=IwAR1vpvppEvWn2Captagq8k8qu3h3Gcv70aWSsn2Y233X2BttfGUpR72WnHY)** `한국어`  
   
 **[앤드류 응 교수님의 스탠포트 머신러닝 노트](http://holehouse.org/mlclass/)** `영어`  
 영어로 되어 있고 친절하기 보단 핵심이 응축되어 있다고 생각한다. 나중에 딥러닝 기본이 좀 쌓이면 다시 꺼내보고 싶은 페이지. 
